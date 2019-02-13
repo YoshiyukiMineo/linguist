@@ -1,0 +1,6 @@
+inspecode:
+  rubocop:
+    machine:
+      cpu: 1.5
+    thresholds:
+      num-issues: 0
